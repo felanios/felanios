@@ -87,6 +87,11 @@
   <img src="https://img.shields.io/badge/OpenTelemetry-9944EE?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
 </p>
 
+### Support Me
+<p align="center">
+<a href="https://buymeacoffee.com/ozmeneyupfs" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
+</p>
+
 ## 📫 How to reach me
 <p align="center">
   <i>Feel free to reach out for collaborations or just a chat!</i>
