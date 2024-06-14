@@ -40,7 +40,7 @@
 ## 📦 Open Source Projects
 <p align="center">
   <b>MurLock</b> - Advanced Open Source Distributed Locking with NestJS and Redis  
-  An npm package aimed at solving concurrency issues in distributed systems by utilizing Redis.
+  a npm package aimed at solving concurrency issues in distributed systems by utilizing Redis.
   <br>
   <a href="https://www.npmjs.com/package/murlock">
     <img src="https://img.shields.io/npm/dw/murlock?style=for-the-badge" alt="npm downloads"/>
