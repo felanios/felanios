@@ -34,7 +34,7 @@
   Key contributor in REST API development and microservices for U.S. expansion; transitioned synchronous communication to an event-based structure to eliminate single-point failures.
 
 - **Software Engineer** at **Ollang, Istanbul**  
-  (10/2023 - Present)  
+  (10/2023 - 07/2024)  
   Managing the transition of systems to microservices, improving fault tolerance and reducing latency.
 
 ## 📦 Open Source Projects
